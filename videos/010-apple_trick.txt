@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Why Apple ads look expensive: 1 trick.",
-  "description": "Apple ads look expensive because of one 1950s design trick. Here's how it works.\n\nFollow @phisualworks for daily design education.\n\n#branddesign #designhistory #swissstyle #minimalism #graphicdesign",
-  "category": "27"
-}
