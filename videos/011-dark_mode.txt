@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Why dark mode feels premium.",
+  "description": "Dark mode feels premium — and it's not just a trend. Here's the psychology behind it.\n\nFollow @phisualworks for daily design education.\n\n#designtips #visualhierarchy #graphicdesign #uxui #designpsychology",
+  "category": "27"
+}
