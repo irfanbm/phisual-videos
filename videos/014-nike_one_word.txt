@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Nike posters: how one word carries a whole ad.",
-  "description": "Nike ran an ad with one word. Here's how one word can carry an entire ad.\n\nFollow @phisualworks for daily design education.\n\n#branddesign #designhistory #swissstyle #minimalism #graphicdesign",
-  "category": "27"
-}
