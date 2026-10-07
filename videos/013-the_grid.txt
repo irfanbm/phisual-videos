@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "The grid: why pros never eyeball layouts.",
-  "description": "Professional designers never eyeball layouts. Here's why the grid is non-negotiable.\n\nFollow @phisualworks for daily design education.\n\n#rulesofdesign #visualgrammar #designeducation #graphicdesign #learning",
-  "category": "27"
-}
