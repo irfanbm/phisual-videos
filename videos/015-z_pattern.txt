@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Your eyes read THIS first (Z-pattern & F-pattern).",
+  "description": "Your eyes follow a Z-pattern or F-pattern automatically. Here's how to use it in design.\n\nFollow @phisualworks for daily design education.\n\n#designtips #visualhierarchy #graphicdesign #uxui #designpsychology",
+  "category": "27"
+}
