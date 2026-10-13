@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "The 0.3 second rule of first impressions.",
-  "description": "Visitors judge your design in 0.3 seconds. How to win that instant.\n\nFollow @phisualworks for daily design education.\n\n#designtips #visualhierarchy #graphicdesign #uxui #designpsychology",
-  "category": "27"
-}
