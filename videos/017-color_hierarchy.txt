@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Your color palette has no hierarchy (60-30-10 fix).",
+  "description": "Seven colors, zero hierarchy. The 60-30-10 ratio that fixes any palette.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
+  "category": "27"
+}
