@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Why movie posters all look the same (on purpose).",
+  "description": "Floating heads and orange-teal — every poster looks the same on purpose. Here's why.\n\nFollow @phisualworks for daily design education.\n\n#branddesign #designhistory #swissstyle #minimalism #graphicdesign",
+  "category": "27"
+}
