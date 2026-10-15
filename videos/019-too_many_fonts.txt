@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Too many fonts: why 2 is the magic number.",
-  "description": "Five fonts on one page is four too many. The two-font rule every pro follows.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
-  "category": "27"
-}
