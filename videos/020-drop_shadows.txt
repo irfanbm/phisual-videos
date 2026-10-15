@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Drop shadows from 2010: retire them.",
+  "description": "Your drop shadows are timestamped 2010. How to retire them without losing depth.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
+  "category": "27"
+}
