@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Symmetry feels safe. Asymmetry feels alive.",
+  "description": "Symmetry feels safe, asymmetry feels alive. When to use each one on purpose.\n\nFollow @phisualworks for daily design education.\n\n#designtips #visualhierarchy #graphicdesign #uxui #designpsychology",
+  "category": "27"
+}
