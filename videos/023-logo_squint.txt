@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Your logo is too complicated. Test: squint.",
-  "description": "Squint at your logo — if it's mush, simplify. The two tests every logo must pass.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
-  "category": "27"
-}
