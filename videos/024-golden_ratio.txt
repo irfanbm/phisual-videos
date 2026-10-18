@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Golden ratio vs honest math: what actually works.",
-  "description": "1.618 isn't a magic formula. What actually works instead of golden-ratio mysticism.\n\nFollow @phisualworks for daily design education.\n\n#rulesofdesign #visualgrammar #designeducation #graphicdesign #learning",
-  "category": "27"
-}
