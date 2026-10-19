@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Stock photo faces kill trust. Do this instead.",
-  "description": "Everyone can spot stock faces. What to use instead to actually build trust.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
-  "category": "27"
-}
