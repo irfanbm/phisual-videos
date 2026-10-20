@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Braun to Apple: Dieter Rams' 10 rules that never age.",
-  "description": "Dieter Rams wrote 10 rules in the 1960s. Apple built an empire on them.\n\nFollow @phisualworks for daily design education.\n\n#branddesign #designhistory #swissstyle #minimalism #graphicdesign",
-  "category": "27"
-}
