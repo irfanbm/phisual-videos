@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Every element edge-to-edge: the alignment fix.",
+  "description": "Nothing lines up and the eye can tell. The alignment fix that calms any layout.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
+  "category": "27"
+}
