@@ -1,6 +1,0 @@
---- RAW JSON ---
-{
-  "title": "Swiss International Style: the 1950s look that runs 2026.",
-  "description": "A 1950s style that still runs 2026. How the Swiss grid conquered design.\n\nFollow @phisualworks for daily design education.\n\n#branddesign #designhistory #swissstyle #minimalism #graphicdesign",
-  "category": "27"
-}
