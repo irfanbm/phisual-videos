@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Rainbow palettes: pick one accent and commit.",
+  "description": "Seven colors screaming at once. Why one committed accent beats a rainbow.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
+  "category": "27"
+}
