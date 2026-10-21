@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Consistent margins beat creative chaos.",
+  "description": "12px here, 20 there, 8 somewhere else. Why a spacing scale beats creative chaos.\n\nFollow @phisualworks for daily design education.\n\n#fixmydesign #designtips #typography #layout #graphicdesign",
+  "category": "27"
+}
