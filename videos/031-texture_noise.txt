@@ -1,0 +1,6 @@
+--- RAW JSON ---
+{
+  "title": "Texture and noise: the anti-AI-slop weapon.",
+  "description": "Everything looks AI-made now. Why texture and grain are the anti-slop weapon.\n\nFollow @phisualworks for daily design education.\n\n#rulesofdesign #visualgrammar #designeducation #graphicdesign #learning",
+  "category": "27"
+}
